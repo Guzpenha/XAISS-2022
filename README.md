@@ -6,7 +6,7 @@ Github with slides and notebooks of [XAISS 2022](https://xaiss.eu/)
 - Explainable Information Retrieval (Jaspreet Singh) slides code
 - Explainable Machine Learning for Graphs (Megha Khosla, Thorben Funke) slides code
 - Explainable Recommender Systems (Nava Tintarev) slides code
-- Explainable NLP (Ashutosh Modi) slides code
+- Explainable NLP (Ashutosh Modi) slides [code](https://github.com/Guzpenha/XAISS-2022/tree/main/code/Explainable%20NLP)
 - XAI in Computer Vision (Mateusz Malinowski) slides code
 - Counterfactuals as Explanations (Martin Pawelczyk) slides code
 - Ethics in Explainability (Stefan Buijsman) slides code
