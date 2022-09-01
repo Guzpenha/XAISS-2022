@@ -10,6 +10,6 @@ Github with slides and notebooks of [XAISS 2022](https://xaiss.eu/)
 - XAI in Computer Vision (Mateusz Malinowski) slides code
 - Counterfactuals as Explanations (Martin Pawelczyk) [slides](https://github.com/Guzpenha/XAISS-2022/blob/main/slides_07_conterfactuals.pdf) code
 - Ethics in Explainability (Stefan Buijsman) slides code
-- HCI for XAI (Ujwal Gadiraju) slides code
+- HCI for XAI (Ujwal Gadiraju) [slides](https://github.com/Guzpenha/XAISS-2022/blob/main/slides_09_HCIXAI.pdf) code
 
 
